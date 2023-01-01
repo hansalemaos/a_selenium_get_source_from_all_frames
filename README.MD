@@ -10,7 +10,7 @@
 # Python 3.9.13
 # Windows 10
 
-$pip a-selenium-get-source-from-all-frames
+$pip install a-selenium-get-source-from-all-frames
 
 from time import sleep
 from a_selenium_kill import add_kill_selenium
